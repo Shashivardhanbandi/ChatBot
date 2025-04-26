@@ -84,5 +84,4 @@ Chatbot-Intent-Classifier/
 ## 👨‍💻 Author
 
 **Bandi Shashivardhan**  
-Application ID: TS202324000575169  
 📧 shashibandi564@gmail.com# ChatBot
